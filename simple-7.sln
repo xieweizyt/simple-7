@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simple-7", "simple-7.csproj", "{107DC62A-2339-41BE-89CC-30C5875DBAD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "simple-7", "simple-7.csproj", "{107DC62A-2339-41BE-89CC-30C5875DBAD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSQ", "..\SSQ\SSQ.csproj", "{0AD33577-0B23-48D3-813D-07475B49B2CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{107DC62A-2339-41BE-89CC-30C5875DBAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{107DC62A-2339-41BE-89CC-30C5875DBAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{107DC62A-2339-41BE-89CC-30C5875DBAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD33577-0B23-48D3-813D-07475B49B2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD33577-0B23-48D3-813D-07475B49B2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD33577-0B23-48D3-813D-07475B49B2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD33577-0B23-48D3-813D-07475B49B2CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
